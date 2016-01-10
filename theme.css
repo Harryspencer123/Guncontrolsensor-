@@ -1,0 +1,12 @@
+body {
+    background-image: -webkit-linear-gradient(left, #ffffff, #000000);
+    background-image: -o-linear-gradient(left, #ffffff, #000000);
+    background-image: linear-gradient(to right, #ffffff, #000000);
+}
+h1 {
+    font: "Sans";
+    font-size: 500%;
+}
+nav {
+    float: left;
+}

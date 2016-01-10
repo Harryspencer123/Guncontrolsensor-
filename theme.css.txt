@@ -1,0 +1,10 @@
+ body {
+                background-image: linear-gradient(90deg, #ffffff, #000000);
+            }
+            h1 {
+                font: "Sans";
+                font-size: 500%;
+            }
+            nav {
+                float: left;
+            }
